@@ -1,38 +1,40 @@
 import psutil
 
-def get_cpu():
-    
-    return{}
+def get_user():
+    p = psutil.users()
+    terminal = '!!'.join('{}' for _ in p).format(*p)
+    print(terminal)
 
-def get_mem():
-    
-    return{}
+cpu = psutil.cpu_freq(percpu=False)
 
-def get_disk():
-    
-    return{}
+print(cpu, '\n')
 
-def show_cpu(data):
-    return{}
+# def get_disk():
+#     psutil.disk_usage('/')
+#     sdiskusage = disk_info
+#     return("total", "used', "free", "percent")
+#         ...
 
-def show_mem(data):
-    return{}
+# def show_mem(data):
+#     return{}
 
-def show_disk(data):
-    return{}
+# def show_disk(data):
+#     return{}
 
-def show(cpu, mem, disk):
-    show_cpu(cpu)
-    show_mem(mem)
-    show_disk(disk)
-    return{}
+# def show(user, cpu, mem, disk):
+#     show_user(user)
+#     show_cpu(cpu)
+#     show_mem(mem)
+#     show_disk(disk)
 
-def main():
-    cpu_info = get_cpu()
-    mem_info = get_mem()
-    disk_info = get_disk()
-    show(cpu = get_cpu, mem=get_mem, disk=get_disk)
+#     return{}
+
+# def main():
+#     cpu_info = get_cpu()
+#     mem_info = get_mem()
+#     disk_info = get_disk()
+#     show(cpu = get_cpu, mem=get_mem, disk=get_disk)
   
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+# main()  

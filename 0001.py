@@ -39,4 +39,4 @@
 
 import psutil
 
-psutil.cpu_times()
+psutil.cpu_times(True)

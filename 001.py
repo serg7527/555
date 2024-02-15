@@ -1,46 +1,43 @@
 import psutil
 
+
 def get_cpu():
-    return psutil.cpu_times_percent(interval=None)
+    print('/\---------CPU USAGE----------/\ \n')
+    cpu = psutil.cpu_percent(interval=1, percpu=True)
+    for el in range(len(cpu)):
+        print(f'CPU core - {el} :...........> {cpu[el]} % \n')
+
 
 def get_mem():
-    return psutil.virtual_memory()
+    print('/\-------MEMORY USAGE-------/\ \n')
+    mem = psutil.virtual_memory()
+    mem_str = mem[0] /1024 ** 3
+    mem_oper = mem[1] /1024 ** 3
+    mem_ope = mem[5] /1024 ** 3
+    print('Total =', mem_str, 'Gb \n')
+    print('Available =', mem_oper, 'Gb \n')
+    print('Percent =', mem_ope, 'Gb \n')
+
 
 def get_disk():
-    return psutil.disk_usage('/')
+    disk = psutil.disk_usage('/')
+    disk_total = disk[0] /1024 ** 3
+    disk_used = disk[1] /1024 ** 3
+    disk_free = disk[2] /1024 ** 3
+    disk_percent = disk[3] /1024
 
-def show_cpu(data):
-    print("CPU Information:")
-    cpu_percentages = data
-    for i, cpu in enumerate(cpu_percentages):
-        print(f"CPU Core {i + 1} Usage: {cpu}%")
+    print('/\-------DISK USAGE--------/\ \n')
+    print('Total = ', disk_total, 'Gb \n')
+    print('Used =', disk_used, 'Gb \n')
+    print('Free =', disk_free, 'Gb \n')
+    print('Percent =', disk_percent,'Gb')
 
-
-def show_cpu(data):
-    print("CPU Information:")
-    # Display the CPU information from the 'data' variable
-    pass
-
-def show_mem(data):
-    print("Memory Information:")
-    # Display the memory information from the 'data' variable
-    pass
-
-def show_disk(data):
-    print("Disk Information:")
-    # Display the disk information from the 'data' variable
-    pass
-
-def show(cpu, mem, disk):
-    show_cpu(cpu)
-    show_mem(mem)
-    show_disk(disk)
 
 def main():
     cpu_info = get_cpu()
     mem_info = get_mem()
     disk_info = get_disk()
-    show(cpu_info, mem_info, disk_info)
+    #show(cpu_info, mem_info, disk_info)
 
 if __name__ == '__main__':
     main()

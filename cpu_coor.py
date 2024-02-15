@@ -1,10 +1,8 @@
 from __future__ import print_function
-
 import collections
 import os
 import sys
 import time
-
 import psutil
 from psutil._compat import get_terminal_size
 

@@ -52,11 +52,11 @@ if __name__ == '__main__':
     main()
 
 
-cpu = psutil.cpu_freq(percpu=True)
-print(cpu)
+cpu = psutil.cpu_freq(percpu=False)
+print(cpu, '\n')
 
-cpu_tim = psutil.cpu_times_percent(interval=1, percpu=True)
-print(cpu_tim)
+cpu_tim = psutil.cpu_times_percent(interval=3, percpu=False)
+print(cpu_tim, '\n')
 
-cpu_per = psutil.cpu_percent(interval=1, percpu=True)
-print(cpu_per)
+cpu_per = psutil.cpu_percent(interval=3, percpu=True)
+print(cpu_per, '\n')

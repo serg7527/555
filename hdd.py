@@ -6,8 +6,6 @@ from psutil._common import bytes2human
 
 
 
-
-
 def main():
     templ = "%-17s %8s %8s %8s %5s%% %9s  %s"
     print(templ % ("Device", "Total", "Used", "Free", "Use ", "Type", "Mount"))

@@ -14,6 +14,8 @@ def secs2hours(secs):
     return "%d:%02d:%02d" % (hh, mm, ss)
 
 
+
+
 def main():
     if not hasattr(psutil, "sensors_battery"):
         return sys.exit("platform not supported")

@@ -1,2 +1,2 @@
 def get_puthon():
-    print("Курс по Puthon")
+    return "Курс по Puthon"

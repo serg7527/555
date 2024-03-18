@@ -1,0 +1,632 @@
+[
+    {
+        "img": "//content2.onliner.by/catalog/device/header/6982e243be994e379b46978e11521399.jpg",
+        "promo": true,
+        "desc": "Ноутбук Tecno Megabook T1 2023 AMD 4894947004933",
+        "link": "https://catalog.onliner.by/notebook/tecno/4894947004933",
+        "cost": "от 2182,73 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/898f7731a7c319ec64f7b7011a27830e.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo IdeaPad Gaming 3 16IAH7 82SA00CXRK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82sa00cxrk",
+        "cost": "от 3497,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/79cfdd6c4f495e7417b5ce023e8f7428.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad 1 15ALC7 82R400AFRK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82r400afrk",
+        "cost": "от 1850,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/8a3d4a539ea4883aa0c31137047719bb.jpg",
+        "promo": true,
+        "desc": "Ноутбук ASUS Vivobook Go 15 E1504FA-BQ867",
+        "link": "https://catalog.onliner.by/notebook/asus/e1504fabq867",
+        "cost": "от 1863,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/79c6f91e98944d0a773d845b65ce1c67.jpg",
+        "promo": true,
+        "desc": "Ноутбук ASUS Vivobook 15X K3504ZA-BQ122",
+        "link": "https://catalog.onliner.by/notebook/asus/k3504zabq122",
+        "cost": "от 1697,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/e551a8973d1b4088c50e391e57f6cb19.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad Slim 3 16ABR8 82XR0020GE",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82xr0020ge",
+        "cost": "от 1740,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/a68c10b1241d136daab6755e16c46b5a.jpg",
+        "promo": true,
+        "desc": "Ноутбук ASUS Vivobook Go 15 E1504FA-BQ463W",
+        "link": "https://catalog.onliner.by/notebook/asus/e1504fabq463w",
+        "cost": "от 1950,00 р. 2299,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/e551a8973d1b4088c50e391e57f6cb19.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad Slim 3 16ABR8 82XR006FTX",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82xr006ftx",
+        "cost": "от 1699,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/227d010827dddc922252ad297c781c2d.jpg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad Slim 3 16IAH8 83ES0013RK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/83es0013rk",
+        "cost": "от 2199,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bc140787c206dac7acdc5559e9919e05.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Acer Aspire 3 A315-58-586A NX.ADDER.01S",
+        "link": "https://catalog.onliner.by/notebook/acer/nxadder01s",
+        "cost": "от 1697,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/e7bfafc5bb6350580eddc2d66a4f0c71.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad 3 15ABA7 82RN00C3",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82rn00c3",
+        "cost": "от 1637,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/ed52fb757a34669f3e914b52eb1496c4.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad Slim 5 16IRL8 82XF008BRK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82xf008brk",
+        "cost": "от 2997,00 р. 3230,25 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/ba8bf2f12c4d8c5f3f41276b5d8cbc6b.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad 3 15IAU7 82RK00GFRK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82rk00gfrk",
+        "cost": "от 2279,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/1621bd1108d5936e156e92d3b74a640f.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo Legion 5 15ACH6H 82JU00THPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82ju00thpb",
+        "cost": "от 3950,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/13b019dc04378c8a904e192c6e908cd8.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Chuwi GemiBook XPro 8GB+256GB",
+        "link": "https://catalog.onliner.by/notebook/chuwi/gemibookxpro8256",
+        "cost": "от 1036,94 р. 1159,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/f48974391764c46898b92fe90b760e8b.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук MSI Thin GF63 12UCX-1012XPL",
+        "link": "https://catalog.onliner.by/notebook/msi/12ucx1012xpl",
+        "cost": "от 2650,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/9a08e5f5400e508fb975bf697669c2b5.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Apple Macbook Air 13\" M1 2020 MGN63",
+        "link": "https://catalog.onliner.by/notebook/apple/mgn63",
+        "cost": "от 2999,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/4ff83b7d03454d20b8c6980f5dd572b5.jpg",
+        "promo": false,
+        "desc": "Ноутбук ASUS Zenbook 15 OLED UM3504DA-MA251",
+        "link": "https://catalog.onliner.by/notebook/asus/um3504dama251",
+        "cost": "от 3756,52 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/79cfdd6c4f495e7417b5ce023e8f7428.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo IdeaPad 1 15ALC7 82R400E9RK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82r400e9rk",
+        "cost": "от 2099,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/9b2fde508e9cc2a0e82d9e7534572d76.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS TUF Gaming F15 FX506HC-HN004",
+        "link": "https://catalog.onliner.by/notebook/asus/fx506hchn004",
+        "cost": "от 2830,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/aea524e5011abd4e075410e8c604e2dc.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук ASUS ROG Strix SCAR 17 G733ZW-LL153W",
+        "link": "https://catalog.onliner.by/notebook/asus/g733zwll153w",
+        "cost": "от 5336,00 р. 6927,42 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2f869f4179157edc50205a52f08f2508.jpg",
+        "promo": false,
+        "desc": "Ноутбук Xiaomi RedmiBook Pro 15 2023 JYU4540CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4540cn",
+        "cost": "от 3080,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/d477b48356f04e5c519203bcdf6a3dff.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Lenovo IdeaPad Gaming 3 15ACH6 82K2028DPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k2028dpb",
+        "cost": "от 2465,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/919b6d6db0ad63ba03a2ffee8efa6c89.jpg",
+        "promo": false,
+        "desc": "Ноутбук Infinix Inbook X2 XL23 71008300932",
+        "link": "https://catalog.onliner.by/notebook/infinix/71008300932",
+        "cost": "от 1700,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bc03621213ea6d5d3d76151ee49a4599.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS TUF Gaming A15 2023 FA507NV-LP023",
+        "link": "https://catalog.onliner.by/notebook/asus/fa507nvlp023",
+        "cost": "от 4090,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/df0d4cdfd6567710bad1bd9b1d5d7bdc.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Acer Nitro V 15 ANV15-51-51FC NH.QN9CD.002",
+        "link": "https://catalog.onliner.by/notebook/acer/nhqn9cd002",
+        "cost": "от 3240,00 р. 3547,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/8852c85527d766ff342ad26505adc32a.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS TUF Gaming F15 FX506LHB-HN323",
+        "link": "https://catalog.onliner.by/notebook/asus/fx506lhbhn323",
+        "cost": "от 2499,00 р. 2699,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/229e9bfedc43abdfacf0974dc165f236.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Machenike L17A Star JJ00GH00ERU",
+        "link": "https://catalog.onliner.by/notebook/machenike/jj00gh00eru",
+        "cost": "от 3707,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bd606f3d6a09c1c9fd493bc4ea56421c.jpeg",
+        "promo": true,
+        "desc": "Ноутбук HONOR MagicBook X 16 2024 Born-F5651C 5301AHGW",
+        "link": "https://catalog.onliner.by/notebook/honor/5301ahgw",
+        "cost": "от 2637,00 р. 2899,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/6bea45542edf09119fd67c4fdf8b2dd7.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Apple Macbook Air 13\" M2 2022 MLY33",
+        "link": "https://catalog.onliner.by/notebook/apple/mcbkairm2mi8256",
+        "cost": "от 3842,64 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/8936479e4f77b3a3723c5328d1a98f4c.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук MSI Bravo 15 C7VF-039XRU",
+        "link": "https://catalog.onliner.by/notebook/msi/9s7158n11039",
+        "cost": "от 3799,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/5887798e51a86b6b269d7f8e0b4ace87.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Acer Nitro 5 AN515-46-R1WM NH.QGZEP.00K",
+        "link": "https://catalog.onliner.by/notebook/acer/nhqgzep00k",
+        "cost": "от 3661,11 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/8e6e66a3e977982a02222501b699b8d4.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Acer Nitro 5 AN515-57-51RC NH.QEMAA.004",
+        "link": "https://catalog.onliner.by/notebook/acer/nhqemaa004",
+        "cost": "от 2644,00 р. 2999,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/059938e66d8d8b2e4701b9cf151d39e0.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук MSI Katana 17 B12VFK-463XRU",
+        "link": "https://catalog.onliner.by/notebook/msi/b12vfk463xru",
+        "cost": "4050,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/59e1b025a310bee3a3dfe9319a4b76dd.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Machenike L15 Pro Pulsar XT JJ00GB00ERU",
+        "link": "https://catalog.onliner.by/notebook/machenike/jj00gb00eru",
+        "cost": "от 3380,87 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/3927200639fe0dbd294fe471be6d2591.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Lenovo IdeaPad Gaming 3 15IAH7 82S900JKPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82s900jkpb",
+        "cost": "от 2850,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/4c9ecdd2086d290261b376c03a763eed.jpg",
+        "promo": false,
+        "desc": "Ноутбук Huawei MateBook D 16 2024 MCLF-X 53013WXF",
+        "link": "https://catalog.onliner.by/notebook/huawei/mclfx53013wxf",
+        "cost": "от 2515,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/6b3c43f71d3901c71182a6b67ec540b6.jpg",
+        "promo": true,
+        "desc": "Ноутбук ASUS Zenbook 14 OLED UX3405MA-PP136W",
+        "link": "https://catalog.onliner.by/notebook/asus/ux3405mapp136w",
+        "cost": "от 5017,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2497201f389b099276ebeda77a983683.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo IdeaPad Gaming 3 15ACH6 82K200QXPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k200qxpb",
+        "cost": "от 2335,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/1621bd1108d5936e156e92d3b74a640f.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo Legion 5 15ACH6H 82JU00TGPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82ju00tgpb",
+        "cost": "от 3765,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/084d0afa0ba5c01a1b3ced82b8636c91.jpg",
+        "promo": false,
+        "desc": "Ноутбук Xiaomi RedmiBook 16 2024 JYU4577CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4577cn",
+        "cost": "от 3145,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2d9682920a76283d2e1a02b5750c5803.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Lenovo LOQ 15APH8 82XT003JPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82xt003jpb",
+        "cost": "от 3450,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/dbcc352090b0a5e348bd1b9a0327ddb5.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Apple Macbook Air 15\" M2 2023 MQKR3",
+        "link": "https://catalog.onliner.by/notebook/apple/mcbkair15m2s8256",
+        "cost": "от 4450,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2b8bd8b211e1294f507fdab2f89d9f83.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Horizont H-book 15 МАК4 T32E3W",
+        "link": "https://catalog.onliner.by/notebook/horizont/15mak4t32e3w",
+        "cost": "от 1360,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/6fb0a901b20e6735db52270451584c87.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo Legion 5 Pro 16IAH7H 82RF006VBM",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82rf006vbm",
+        "cost": "от 4899,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2a719afbbd265b7b5afe518d5b52b1be.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Gigabyte G5 KF-E3KZ313SD",
+        "link": "https://catalog.onliner.by/notebook/gigabyte/kfe3kz313sd",
+        "cost": "от 3387,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/0f3bfff74e299897e1c577f508c88d8e.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Gigabyte Aorus 7 9MF-E2KZ513SD",
+        "link": "https://catalog.onliner.by/notebook/gigabyte/9mfe2kz513sd",
+        "cost": "от 3599,00 р. 3996,50 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/f053ffc8e0c291c71da9b5ec4bc0f4f4.jpeg",
+        "promo": false,
+        "desc": "Ноутбук ASUS VivoBook Pro 15 K3500PH-KJ305",
+        "link": "https://catalog.onliner.by/notebook/asus/k3500phkj305",
+        "cost": "от 2639,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/0191088c2ed757fab33ccd0bf6038432.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Chuwi HeroBook Pro N4020 8GB+256GB",
+        "link": "https://catalog.onliner.by/notebook/chuwi/herobpro8256",
+        "cost": "от 899,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/4c9ecdd2086d290261b376c03a763eed.jpg",
+        "promo": false,
+        "desc": "Ноутбук Huawei MateBook D 16 2024 MCLF-X 53013YDK",
+        "link": "https://catalog.onliner.by/notebook/huawei/53013ydk",
+        "cost": "от 2299,00 р. 2513,01 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/7f676662f4ba0b726441a34f75469c00.jpg",
+        "promo": false,
+        "desc": "Ноутбук Lenovo IdeaPad 1 15IGL7 82V700DGUE",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82v700dgue",
+        "cost": "от 957,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/e1242ab77747b13ea935b3bab90f6ae5.jpeg",
+        "promo": false,
+        "desc": "Ноутбук ASUS Vivobook 16 M1605XA-MB059",
+        "link": "https://catalog.onliner.by/notebook/asus/m1605xamb059",
+        "cost": "от 2934,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/f68c21443e137a42e2424e6f1218d23f.jpg",
+        "promo": false,
+        "desc": "Ноутбук Apple Macbook Pro 14.2\" M3 Pro 2023 MRX33",
+        "link": "https://catalog.onliner.by/notebook/apple/mrx33",
+        "cost": "от 8050,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/f48974391764c46898b92fe90b760e8b.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук MSI Thin GF63 12UCX-494XPL",
+        "link": "https://catalog.onliner.by/notebook/msi/12ucx494xpl",
+        "cost": "от 2535,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/fc7a942ea0e4ad45a394a6b35a10b330.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Huawei MateBook D 14 2023 MDF-X 53013UFC",
+        "link": "https://catalog.onliner.by/notebook/huawei/53013ufc",
+        "cost": "от 1599,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bd606f3d6a09c1c9fd493bc4ea56421c.jpeg",
+        "promo": true,
+        "desc": "Ноутбук HONOR MagicBook X 16 2023 BRN-F56 5301AFHH",
+        "link": "https://catalog.onliner.by/notebook/honor/brnf56",
+        "cost": "от 2734,86 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bc03621213ea6d5d3d76151ee49a4599.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук ASUS TUF Gaming A15 2023 FA507NU-LP037",
+        "link": "https://catalog.onliner.by/notebook/asus/fa507nulp037",
+        "cost": "3697,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/cfceb909fb8148bbbe81b80d23dfcd07.jpeg",
+        "promo": false,
+        "desc": "Ноутбук HONOR MagicBook 15 BMH-WFP9HN 5301AFVL",
+        "link": "https://catalog.onliner.by/notebook/honor/5301afvl",
+        "cost": "от 2099,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/b7be28bcef2bbbc62136af7cbafabdc4.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Xiaomi RedmiBook Pro 14 2022 JYU4460CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4460cn",
+        "cost": "3100,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/d477b48356f04e5c519203bcdf6a3dff.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo IdeaPad Gaming 3 15ACH6 82K200HGRE",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k200hgre",
+        "cost": "2899,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/25b21b12f2e0dbf8ea173e38e55db9c8.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Lenovo LOQ 15IRH8 82XV00QWRK",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82xv00qwrk",
+        "cost": "от 3769,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2a719afbbd265b7b5afe518d5b52b1be.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Gigabyte G5 KF5-G3KZ353SD",
+        "link": "https://catalog.onliner.by/notebook/gigabyte/kf5g3kz353sd",
+        "cost": "от 3515,00 р. 3945,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/9b2fde508e9cc2a0e82d9e7534572d76.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS TUF Gaming F15 FX506HE-HN376",
+        "link": "https://catalog.onliner.by/notebook/asus/fx506hehn376",
+        "cost": "от 2975,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/a94d0c2c69c8c9f4e8e34772876922e9.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS TUF Gaming A17 FA706IHRB-HX050",
+        "link": "https://catalog.onliner.by/notebook/asus/fa706ihrbhx050",
+        "cost": "от 2987,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bc03621213ea6d5d3d76151ee49a4599.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS TUF Gaming A15 2023 FA507XI-HQ014",
+        "link": "https://catalog.onliner.by/notebook/asus/fa507xihq014",
+        "cost": "от 5495,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/cf115109c7263ab7e991b61e37abfd42.jpg",
+        "promo": true,
+        "desc": "Ноутбук Lenovo ThinkPad X1 Carbon Gen 12 21KC0000CD",
+        "link": "https://catalog.onliner.by/notebook/lenovo/21kc0000cd",
+        "cost": "от 9790,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/8a3d4a539ea4883aa0c31137047719bb.jpg",
+        "promo": false,
+        "desc": "Ноутбук ASUS Vivobook Go 15 E1504FA-BQ847",
+        "link": "https://catalog.onliner.by/notebook/asus/e1504fabq847",
+        "cost": "2614,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/b04d07e8a70457823486ae73460a6c4c.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук GMNG Skill 1898156 MN15P7-ADCN02",
+        "link": "https://catalog.onliner.by/notebook/gmng/gmng1898156",
+        "cost": "от 3359,00 р. 3673,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/df0d4cdfd6567710bad1bd9b1d5d7bdc.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Acer Nitro V 15 ANV15-51-51PT NH.QNCER.001",
+        "link": "https://catalog.onliner.by/notebook/acer/nhqncer001",
+        "cost": "2770,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/d79c658b4133500b57ac4cb066ac8149.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Acer Aspire 5 A515-57-52ZZ NX.KN3CD.003",
+        "link": "https://catalog.onliner.by/notebook/acer/nxkn3cd003",
+        "cost": "от 2187,08 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/33dfab610ef7e2c0091b02ac7a96466a.jpeg",
+        "promo": false,
+        "desc": "Ноутбук ASUS Vivobook Go 15 E1504FA-BQ664",
+        "link": "https://catalog.onliner.by/notebook/asus/e1504fabq664",
+        "cost": "от 1984,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/e377ef0bdd9690104f00d03b06088423.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Lenovo Legion 5 Pro R9000P 82WM006KCD",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82wm006kcd",
+        "cost": "от 5882,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/11c6369522db41ca12b2d60e87075f73.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Acer Nitro 5 AN515-55-58F7 NH.QB0EU.005",
+        "link": "https://catalog.onliner.by/notebook/acer/nhqb0eu005",
+        "cost": "2582,00 р. 2807,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/f9e60091ec02e7cc31f6b1e60b583048.jpeg",
+        "promo": true,
+        "desc": "Ноутбук Apple Macbook Pro 14\" M1 Pro 2021 MKGP3",
+        "link": "https://catalog.onliner.by/notebook/apple/mbpro21sg",
+        "cost": "от 6535,53 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bd606f3d6a09c1c9fd493bc4ea56421c.jpeg",
+        "promo": true,
+        "desc": "Ноутбук HONOR MagicBook X 16 2024 BRN-F56 5301AHHM",
+        "link": "https://catalog.onliner.by/notebook/honor/5301ahhm",
+        "cost": "от 2386,68 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/ff9c8954b4b622aa3b863a231496f1cc.jpeg",
+        "promo": false,
+        "desc": "Ноутбук ASUS ZenBook 14 UM3402YA-KP660",
+        "link": "https://catalog.onliner.by/notebook/asus/um3402yakp660",
+        "cost": "от 3069,20 р. 3340,50 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/3db1d78bf0a7735b064fa2dd0882fa84.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук ASUS ROG Strix G15 G513IH-HN014",
+        "link": "https://catalog.onliner.by/notebook/asus/g513ihhn014",
+        "cost": "3806,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/98cc9470d32131c53878aec65e411295.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Machenike L15 Air Pulsar XT JJ00GK00ERU",
+        "link": "https://catalog.onliner.by/notebook/machenike/jj00gk00eru",
+        "cost": "от 3379,11 р. 3677,90 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/012455d63ed090afe851d7eb812c4618.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Xiaomi RedmiBook 14 2023 JYU4534CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4534cn",
+        "cost": "от 2810,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/e1242ab77747b13ea935b3bab90f6ae5.jpeg",
+        "promo": true,
+        "desc": "Ноутбук ASUS Vivobook 16 M1605YA-MB350",
+        "link": "https://catalog.onliner.by/notebook/asus/m1605yamb350",
+        "cost": "от 1899,00 р. 2101,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/4699a1776b22d8d57c0dc94b312cb429.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Huawei MateBook D 14 2023 MDF-X 53013TBH",
+        "link": "https://catalog.onliner.by/notebook/huawei/53013tbh",
+        "cost": "от 2498,84 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/bc03621213ea6d5d3d76151ee49a4599.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук ASUS TUF Gaming A15 2023 FA507NV-LP058",
+        "link": "https://catalog.onliner.by/notebook/asus/fa507nvlp058",
+        "cost": "от 3949,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/035e268708166e36c3a701037d4a7086.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук Machenike Light 16 Pro 2023 L16P-i913900HX478Q240HW321BY",
+        "link": "https://catalog.onliner.by/notebook/machenike/l16pi91391651247",
+        "cost": "от 6899,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/8a421661d808fe00dd7f2d7beb4cb2e7.jpg",
+        "promo": false,
+        "desc": "Рабочая станция ASUS ROG Zephyrus Duo 16 2023 GX650PY-NM085W",
+        "link": "https://catalog.onliner.by/notebook/asus/gx650pynm085w",
+        "cost": "от 16 636,84 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/1677d7a5ac3fcf4b435f0f5ca32fcc8c.jpg",
+        "promo": false,
+        "desc": "Игровой ноутбук Lenovo Legion 5 15ARP8 83EF0000CD",
+        "link": "https://catalog.onliner.by/notebook/lenovo/83ef0000cd",
+        "cost": "от 4698,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/2f869f4179157edc50205a52f08f2508.jpg",
+        "promo": false,
+        "desc": "Ноутбук Xiaomi RedmiBook Pro 15 2023 JYU4541CN",
+        "link": "https://catalog.onliner.by/notebook/xiaomi/jyu4541cn",
+        "cost": "от 2975,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/d477b48356f04e5c519203bcdf6a3dff.jpeg",
+        "promo": true,
+        "desc": "Игровой ноутбук Lenovo IdeaPad Gaming 3 15ACH6 82K200QPPB",
+        "link": "https://catalog.onliner.by/notebook/lenovo/82k200qppb",
+        "cost": "от 2475,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/0b1c36c086b8ba8be69a9c6102416334.jpeg",
+        "promo": false,
+        "desc": "Ноутбук ASUS Vivobook Pro 16X M7600QC-KV168",
+        "link": "https://catalog.onliner.by/notebook/asus/m7600qckv168",
+        "cost": "от 3239,00 р. 3776,58 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/589869450cda4b678d07604b780e1960.jpeg",
+        "promo": false,
+        "desc": "Игровой ноутбук ASUS ROG Strix SCAR 18 2023 G834JY-N6044X",
+        "link": "https://catalog.onliner.by/notebook/asus/g834jyn6044x",
+        "cost": "16 435,00 р."
+    },
+    {
+        "img": "//content2.onliner.by/catalog/device/header/28f52a9ae242ef6d16a73698d8ef07bc.jpeg",
+        "promo": false,
+        "desc": "Ноутбук Acer Swift 1 SF114-34-P8NR NX.A77ER.009",
+        "link": "https://catalog.onliner.by/notebook/acer/nxa77er009",
+        "cost": "от 1232,26 р."
+    }
+]

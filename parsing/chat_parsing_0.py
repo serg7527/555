@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # URL страницы для парсинга
-url = 'https://www.example.com'
+url = 'https://cars.av.by'
 
 # Посылаем GET запрос по указанному URL
 response = requests.get(url)

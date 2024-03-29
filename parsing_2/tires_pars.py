@@ -60,7 +60,7 @@ def parser():
             save_doc(cards, CSV)
         
         print('Парсинг окончен')
-        print(cards)
+        #print(cards)
     else:
 
         print('Error')

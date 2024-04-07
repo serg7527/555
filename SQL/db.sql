@@ -118,7 +118,7 @@ CREATE TABLE IF NOT EXISTS images_items (
     FOREIGN KEY (image_id) REFERENCES images(id),
     FOREIGN KEY (item_id) REFERENCES items(id)
 );
-########
+
 
 CREATE SEQUENCE backets_seq;
 
@@ -170,5 +170,3 @@ EXECUTE FUNCTION set_updated();
 CREATE TRIGGER orders_updated BEFORE UPDATE
 ON orders FOR EACH ROW
 EXECUTE FUNCTION set_updated();
-
-

@@ -1,0 +1,32 @@
+.row {
+    background: linear-gradient(90deg, #124380 22%, #1a9953 88%);
+}
+
+.nav-link {
+    color: rgb(14, 131, 92);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(81, 180, 134);
+} 
+
+.navbar-brand {
+    color: rgb(29, 161, 161);
+}
+
+.navbar-toggler {
+    color: rgb(29, 161, 161);
+    background-color: rgb(14, 131, 92);
+}
+
+.card-img-top {
+    box-shadow: 10px -6px 15px 5px #5e5c64, -13px 8px 10px 1px #000000;
+}
+
+.card-title {
+    color: rgb(5, 44, 44);
+}
+
+.card-text {
+    color: rgb(6, 46, 32);
+}

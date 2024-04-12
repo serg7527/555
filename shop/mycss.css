@@ -24,9 +24,10 @@
 }
 
 .card-title {
-    color: rgb(5, 44, 44);
+    color: rgb(4, 31, 31);
+    padding-left: 6em;
 }
 
 .card-text {
-    color: rgb(6, 46, 32);
+    color: rgb(8, 9, 85);
 }

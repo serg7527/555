@@ -25,9 +25,25 @@
 
 .card-title {
     color: rgb(4, 31, 31);
-    padding-left: 6em;
+    font-size: x-large;
+    font-weight: 700;
 }
 
 .card-text {
-    color: rgb(8, 9, 85);
+    color: rgb(2, 2, 29);
+    font: 0.96em sans-serif;;
+}
+
+.dropdown-toggle {
+    color: rgb(6, 46, 46);
+}
+
+.dropdown-item {
+    color: rgb(8, 8, 83);
+    border-radius: 0.1cm;
+    background-color: #e5e2ee;
+}
+
+.data-bs-toggle {
+    color: rgb(172, 17, 112);
 }

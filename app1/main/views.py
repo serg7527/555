@@ -1,9 +1,7 @@
 from django.http import HttpResponse
 from django.shortcuts import render
-from django.template import context
-
+#from django.template import context
 from goods.models import Categories
-
 
 
 def index(request):

@@ -57,7 +57,7 @@
     {% endif %}
 
     {% for product in goods %}
-        <!-- Карта товара -->
+                      <!-- Карта товара -->
         <div class="col-lg-4 col-md-6 p-4">
             <div class="card border-primary rounded custom-shadow">
                 {% if product.image %}
@@ -82,7 +82,7 @@
                             {% if product.bodyline %}
                             {{product.bodyline|truncatechars:100}}
                             {% else %}
-                            {{proguct.description|truncatechars:40}}
+                            {{proguct.description|truncatechars:35}}
                             {% endif %}
                         {% endautoescape %}
 

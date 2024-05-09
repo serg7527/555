@@ -6,8 +6,8 @@ from django.shortcuts import render
 def index(request):
 
     context = {
-        "title": "Home - Главная",
-        "content": "Магазин мебели HOME",
+        'title': 'Home - Главная',
+        'content': 'Магазин мебели HOME',
     }
 
     return render(request, 'main/index.html', context)
@@ -15,9 +15,9 @@ def index(request):
 
 def about(request):
     context = {
-        "title": "Home - О нас",
-        "content": "О нас",
-        "text_on_page": "Самый нужный текст на этом сайте",
+        'title': 'Home - О нас',
+        'content': 'О нас',
+        'text_on_page': 'Самый нужный текст на этом сайте',
     }
 
     return render(request, 'main/about.html', context)

@@ -17,7 +17,7 @@ def catalog(request, category_slug=None):
     elif query:
         goods = q_search(query)
     else:
-        goods = get_list_or_404(Products.objects.filter(category_slug=category_slug))
+        goods = get_list_or_404(Products.objects.filter(category__slug=category_slug))
 
     if on_sale:
         goods = goods.filter(discount__gt=0)
@@ -31,8 +31,8 @@ def catalog(request, category_slug=None):
     context = {
         "title": "Home - Каталог",
         "goods": current_page,
-        "slug_url": category_slug,
-    }
+        "slug_url": category_slug
+    } 
     return render(request, "goods/catalog.html", context)
 
 
